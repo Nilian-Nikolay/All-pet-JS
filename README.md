@@ -33,13 +33,13 @@ to-do
 Сайт - https://nilian-nikolay.github.io/to-do/
 
 Архив - https://github.com/Nilian-Nikolay/to-do
+
 ------------------------------
 drag-drop
 
 Сайт - https://nilian-nikolay.github.io/Drag-Drop/
 
 Арих - https://github.com/Nilian-Nikolay/Drag-Drop
-
 
 ------------------------
 change Text
