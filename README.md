@@ -1,25 +1,19 @@
-calculator 
+Notes
 
-Сайт - https://nilian-nikolay.github.io/Calculator/
+Сайт - https://nilian-nikolay.github.io/Editor/
 
-Архив - https://github.com/Nilian-Nikolay/Calculator
+Архив - https://github.com/Nilian-Nikolay/Editor
 
------------------
 
-drag-drop
+----------------
 
-Сайт - https://nilian-nikolay.github.io/Drag-Drop/
+Super tic-tac-toe
 
-Арих - https://github.com/Nilian-Nikolay/Drag-Drop
+Сайт - https://nilian-nikolay.github.io/Super-tic-tac-toe/
 
-------------------------
-change Text
+Архив - https://github.com/Nilian-Nikolay/Super-tic-tac-toe
 
-Сайт - https://nilian-nikolay.github.io/change-Text/
-
-Архив - https://github.com/Nilian-Nikolay/change-Text
-
--------------------------------
+-----------------------------
 change color
 
 Сайт - https://nilian-nikolay.github.io/change-color/
@@ -34,9 +28,31 @@ slider
 Архив - https://github.com/Nilian-Nikolay/slider
 
 ------------------------------
-
 to-do
 
 Сайт - https://nilian-nikolay.github.io/to-do/
 
 Архив - https://github.com/Nilian-Nikolay/to-do
+------------------------------
+drag-drop
+
+Сайт - https://nilian-nikolay.github.io/Drag-Drop/
+
+Арих - https://github.com/Nilian-Nikolay/Drag-Drop
+
+
+------------------------
+change Text
+
+Сайт - https://nilian-nikolay.github.io/change-Text/
+
+Архив - https://github.com/Nilian-Nikolay/change-Text
+
+-------------------------------
+
+calculator 
+
+Сайт - https://nilian-nikolay.github.io/Calculator/
+
+Архив - https://github.com/Nilian-Nikolay/Calculator
+
